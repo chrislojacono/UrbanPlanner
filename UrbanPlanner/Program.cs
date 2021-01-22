@@ -61,11 +61,10 @@ namespace UrbanPlanner
                 Height = 173.2,
                 Stories = 1,
             };
-            Console.WriteLine($"{FiveOneTwoEigth.Address()}-------------");
-            Console.WriteLine($"Designed by {FiveOneTwoEigth.Designer()}");
-            Console.WriteLine($"COnstruced on {FiveOneTwoEigth.Construct()}");
-            Console.WriteLine($"Owned by {FiveOneTwoEigth.Purchase("Bob Ross")}");
-            Console.WriteLine($"{FiveOneTwoEigth.Volume} cubic meters of space");
+            Console.WriteLine($"{FiveOneTwoEigth.Address()}-------------\nDesigned by {FiveOneTwoEigth.Designer()}\nConstruced on {FiveOneTwoEigth.Construct()}\nOwned by {FiveOneTwoEigth.Purchase("Bob Ross")}\n{FiveOneTwoEigth.Volume} cubic meters of space");
+            Console.WriteLine($"{myApartment.Address()}-------------\nDesigned by {myApartment.Designer()}\nConstruced on {myApartment.Construct()}\nOwned by {myApartment.Purchase("Bill Murray")}\n{myApartment.Volume} cubic meters of space");
+            Console.WriteLine($"{momsHouse.Address()}-------------\nDesigned by {momsHouse.Designer()}\nConstruced on {momsHouse.Construct()}\nOwned by {momsHouse.Purchase("Laura LoJacono")}\n{momsHouse.Volume} cubic meters of space");
+
         }
     }
 }
