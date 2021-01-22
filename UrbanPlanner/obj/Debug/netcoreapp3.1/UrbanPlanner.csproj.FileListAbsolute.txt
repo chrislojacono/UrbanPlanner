@@ -1,0 +1,13 @@
+C:\Users\cloja\source\repos\Back-End\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.exe
+C:\Users\cloja\source\repos\Back-End\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.deps.json
+C:\Users\cloja\source\repos\Back-End\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.runtimeconfig.json
+C:\Users\cloja\source\repos\Back-End\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.runtimeconfig.dev.json
+C:\Users\cloja\source\repos\Back-End\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.dll
+C:\Users\cloja\source\repos\Back-End\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.pdb
+C:\Users\cloja\source\repos\Back-End\UrbanPlanner\UrbanPlanner\obj\Debug\netcoreapp3.1\UrbanPlanner.csprojAssemblyReference.cache
+C:\Users\cloja\source\repos\Back-End\UrbanPlanner\UrbanPlanner\obj\Debug\netcoreapp3.1\UrbanPlanner.AssemblyInfoInputs.cache
+C:\Users\cloja\source\repos\Back-End\UrbanPlanner\UrbanPlanner\obj\Debug\netcoreapp3.1\UrbanPlanner.AssemblyInfo.cs
+C:\Users\cloja\source\repos\Back-End\UrbanPlanner\UrbanPlanner\obj\Debug\netcoreapp3.1\UrbanPlanner.csproj.CoreCompileInputs.cache
+C:\Users\cloja\source\repos\Back-End\UrbanPlanner\UrbanPlanner\obj\Debug\netcoreapp3.1\UrbanPlanner.dll
+C:\Users\cloja\source\repos\Back-End\UrbanPlanner\UrbanPlanner\obj\Debug\netcoreapp3.1\UrbanPlanner.pdb
+C:\Users\cloja\source\repos\Back-End\UrbanPlanner\UrbanPlanner\obj\Debug\netcoreapp3.1\UrbanPlanner.genruntimeconfig.cache
