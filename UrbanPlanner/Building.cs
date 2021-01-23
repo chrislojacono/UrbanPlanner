@@ -35,7 +35,7 @@ namespace UrbanPlanner
         }
         public string Designer() => _designer;
         public string Address() => _address;
-
+        public string Owner() => _owner;
 
     }
 }
